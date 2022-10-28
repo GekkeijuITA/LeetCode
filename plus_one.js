@@ -12,3 +12,8 @@
     digits = Array.from(number.toString());
     return digits;
 };
+
+/*
+ Runtime 88ms
+ Memory 41.6 MB
+*/
